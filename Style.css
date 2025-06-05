@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>مشروعي المميز</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>مشروعي المميز</h1>
+    <p>حلول ذكية لمشاكل الحياة اليومية</p>
+  </header>
+
+  <section class="about">
+    <h2>عن المشروع</h2>
+    <p>مشروعي هو تطبيق ويب يساعد المستخدمين على إدارة مهامهم اليومية بكفاءة وسهولة.</p>
+  </section>
+
+  <section class="features">
+    <h2>مميزات المشروع</h2>
+    <ul>
+      <li>واجهة سهلة الاستخدام</li>
+      <li>تنبيهات ذكية</li>
+      <li>دعم لغات متعددة</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>تواصل معنا</h2>
+    <p>راسلنا عبر البريد: <a href="mailto:contact@example.com">contact@example.com</a></p>
+    <p><a href="https://wa.me/966500000000" target="_blank">تواصل عبر واتساب</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 مشروعي المميز</p>
+  </footer>
+</body>
+</html>
